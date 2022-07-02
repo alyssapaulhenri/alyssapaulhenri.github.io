@@ -3,7 +3,7 @@
   modal-id: 1
   img: 1.jpg
   thumbnail: 1.jpg
-  drive: X minutes
+  drive: 10 minutes
   link: https://goo.gl/maps/wM1GRUEwsmwVY2k29
   description: This medieval town renowned for its antiques shops and a recognised ‘small Normandy town of character‘ is situated next to a picturesque forest. It's right next to the Domaine. You can also go for a 2.5 hike through the forests + near the pond "The Herse" https://rando-perche.fr/a-pied/la-herse/
 
@@ -12,7 +12,7 @@
   modal-id: 2
   img: 2.jpg
   thumbnail: 2.jpg
-  drive: X minutes
+  drive: 20 minutes
   link: https://goo.gl/maps/UBoYQ1r3RiCCRHdVA
   description: This charming village is well worth a visit for its beautiful old buildings, flea markets and popular La Maison d’Horbé tea room. Built on a hill, it dominates the Perche Regional Natural Park and has become home to many international artists
   
@@ -21,25 +21,16 @@
   modal-id: 3
   img: 3.jpg
   thumbnail: 3.jpg
-  drive: X minutes
+  drive: 30 minutes
   link: https://www.parc-naturel-perche.fr/sites/pnr-perche/files/content/files/route_tranquille_du_perche_complet.pdf
   description: Departing from the town of Nocé, follow 87km of signposted route divided into 21 stops and discover the most beautiful jewels of Percheron architecture. Only about 100 manor houses and stately homes remain of the 400 there used to be in the Perche.
-
-- title: Activity
-  subtitle: The Perche
-  modal-id: 4
-  img: 4.jpg
-  thumbnail: 4.jpg
-  drive: X minutes
-  link: https://goo.gl/maps/MY49ntTHETuat5jN8
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique rutrum mauris nec rutrum. Nam sem ex, bibendum vitae velit eu, tempor sagittis nunc. Donec nunc erat, tempor ac finibus vel, molestie eget augue. Curabitur eleifend venenatis mi, sagittis faucibus ex pellentesque in. Etiam efficitur, augue sed faucibus laoreet, ligula diam euismod ipsum, facilisis pharetra sapien tortor eget nibh. Nulla vel purus suscipit, rutrum diam.
 
 - title: Étretat
   subtitle: Normandy coast
   modal-id: 5
   img: 5.jpg
   thumbnail: 5.jpg
-  drive: X minutes
+  drive: 3 hours
   link: https://goo.gl/maps/PWgn4ZjSffdWJq6D7
   description: A beautiful seaside town with breath-taking cliffs and a path that goes along the border of the cliffs.
 
@@ -48,6 +39,6 @@
   modal-id: 6
   img: 6.jpg
   thumbnail: 6.jpg
-  drive: X minutes
+  drive: 3 hours
   link: https://goo.gl/maps/bD39PHdq7jV1cuqL7
   description: Mont-Saint-Michel and its surrounding bay were inscribed on the UNESCO list of World Heritage Sites in 1979 for its unique aesthetic and importance as a medieval Christian site.
