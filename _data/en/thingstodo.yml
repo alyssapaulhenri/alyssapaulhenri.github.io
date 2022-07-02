@@ -26,7 +26,7 @@
   description: Departing from the town of Nocé, follow 87km of signposted route divided into 21 stops and discover the most beautiful jewels of Percheron architecture. Only about 100 manor houses and stately homes remain of the 400 there used to be in the Perche.
 
 - title: Activity
-  subtitle: Description
+  subtitle: The Perche
   modal-id: 4
   img: 4.jpg
   thumbnail: 4.jpg
@@ -34,7 +34,7 @@
   link: https://goo.gl/maps/MY49ntTHETuat5jN8
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique rutrum mauris nec rutrum. Nam sem ex, bibendum vitae velit eu, tempor sagittis nunc. Donec nunc erat, tempor ac finibus vel, molestie eget augue. Curabitur eleifend venenatis mi, sagittis faucibus ex pellentesque in. Etiam efficitur, augue sed faucibus laoreet, ligula diam euismod ipsum, facilisis pharetra sapien tortor eget nibh. Nulla vel purus suscipit, rutrum diam.
 
-- title: Activity
+- title: Etretat
   subtitle: Description
   modal-id: 5
   img: 5.jpg
@@ -43,7 +43,7 @@
   link: https://goo.gl/maps/MY49ntTHETuat5jN8
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique rutrum mauris nec rutrum. Nam sem ex, bibendum vitae velit eu, tempor sagittis nunc. Donec nunc erat, tempor ac finibus vel, molestie eget augue. Curabitur eleifend venenatis mi, sagittis faucibus ex pellentesque in. Etiam efficitur, augue sed faucibus laoreet, ligula diam euismod ipsum, facilisis pharetra sapien tortor eget nibh. Nulla vel purus suscipit, rutrum diam.
 
-- title: Activity
+- title: Mont Saint Michel
   subtitle: Description
   modal-id: 6
   img: 6.jpg
