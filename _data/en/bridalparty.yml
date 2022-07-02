@@ -1,23 +1,35 @@
-- name: Name
+- name: Menaka Reddy
   pic: 1
   position: Role
 
-- name: Name
+- name: Kathryn Murashige
   pic: 2
   position: Role
 
-- name: Name
+- name: Nathan Heinze
   pic: 3
   position: Role
 
-- name: Name
+- name: Adrien Guilloux
   pic: 4
   position: Role
 
-- name: Name
+- name: Lizzy Murashige
   pic: 5
   position: Role
 
-- name: Name
+- name: Jess Wiken
   pic: 6
+  position: Role
+  
+- name: Martin Broly
+  pic: 7
+  position: Role
+  
+- name: Aditi Ramesh
+  pic: 8
+  position: Role
+  
+- name: Jared Heinze
+  pic: 9
   position: Role
